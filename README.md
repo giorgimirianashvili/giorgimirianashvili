@@ -18,6 +18,7 @@
 - Mysql (DB)
 - Sqlite(DB)
 - NestJS (Back)
+- NodeJS (Back)
 - Bash, Sh, Zsh (Back)
 - Python (Back)
 - Git
