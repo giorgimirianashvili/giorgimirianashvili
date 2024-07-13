@@ -3,3 +3,27 @@
 - Networking and cyber security
 - Machine learninng
 - Generaly in computer science
+# Speaking of my interests, my skillset consists of:
+- Javascript (Front, Back)
+- Typescript (Front, Back)
+- React (Front)
+- HTML (Front)
+- CSS (Front)
+- React native (Front)
+- NextJS (Front)
+- Angular (Front)
+- MongoDB (DB)
+- PostgreSql (DB)
+- Mysql (DB)
+- Sqlite(DB)
+- GraphQL(Db)
+- NestJS (Back)
+- Bash, Sh, Zsh (Back)
+- Python (Back)
+- Git
+- Linux
+- C
+- C++
+- Assembly
+- Rust
+- Java
