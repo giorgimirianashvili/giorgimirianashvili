@@ -16,7 +16,6 @@
 - PostgreSql (DB)
 - Mysql (DB)
 - Sqlite(DB)
-- GraphQL(Db)
 - NestJS (Back)
 - Bash, Sh, Zsh (Back)
 - Python (Back)
