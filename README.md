@@ -4,7 +4,7 @@
 - 🤖 Machine learninng
 - 💻 Generaly in computer science
 # Speaking of my interests, my skillset consists of:
-- Javascript (Front, Back)
+- Javascript (Front, Back) 
 - Typescript (Front, Back)
 - React (Front)
 - React native (Front)
