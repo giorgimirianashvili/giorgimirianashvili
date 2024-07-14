@@ -17,6 +17,7 @@
 - PostgreSql (DB)
 - Mysql (DB)
 - Sqlite(DB)
+- ExpressJS (Back)
 - NestJS (Back)
 - NodeJS (Back)
 - Bash, Sh, Zsh (Back)
