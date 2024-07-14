@@ -12,6 +12,7 @@
 - CSS (Front)
 - NextJS (Front)
 - Angular (Front)
+- MongoDB (DB)
 - Mysql (DB)
 - Sqlite(DB)
 - ExpressJS (Back)
