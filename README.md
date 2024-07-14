@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Giorgi Mirianashvili, I am a full stack web developer. I am Also interested in:
 - 💾 Kernel development
 - 🌎Networking and cyber security
-- 🤖 Machine learninng
+- 🤖 Machine learning
 - 💻 Generaly in computer science
 # Speaking of my interests, my skillset consists of:
 - Javascript (Front, Back) 
