@@ -16,6 +16,7 @@
 - Mysql (DB)
 - Sqlite(DB)
 - ExpressJS (Back)
+- rxjs (back)
 - NestJS (Back)
 - NodeJS (Back)
 - Bash, Sh, Zsh (Back)
