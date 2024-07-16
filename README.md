@@ -13,6 +13,7 @@
 - NextJS (Front)
 - Angular (Front)
 - MongoDB (DB)
+- PostgreSQL
 - Mysql (DB)
 - Sqlite(DB)
 - ExpressJS (Back)
