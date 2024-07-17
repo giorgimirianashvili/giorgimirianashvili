@@ -13,9 +13,11 @@
 - NextJS (Front)
 - Angular (Front)
 - MongoDB (DB)
-- PostgreSQL
+- PostgreSQL (DB)
 - Mysql (DB)
-- Sqlite(DB)
+- Sqlite (DB)
+- Prisma (DB)
+- TypeORM (DB)
 - ExpressJS (Back)
 - rxjs (back)
 - NestJS (Back)
