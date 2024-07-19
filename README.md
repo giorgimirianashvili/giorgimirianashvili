@@ -3,7 +3,8 @@
 - 🌎Networking and cyber security
 - 🤖 Machine learning
 - 💻 Generaly in computer science
-# Speaking of my interests, my skillset consists of:
+## Speaking of my interests, my skill set consists of:
+<table><tr><td valign="top" width="33%">
 <div display=flex flex-direction=row>
   <a href="https://www.javascript.com/">
     <img src="https://camo.githubusercontent.com/f85cece6899de7bec4dee626087a385376717cedf457d6af7d93349012447e19/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6a6176617363726970742d6f726967696e616c2e737667" width=50px>
@@ -32,4 +33,14 @@
 <a href="https://www.figma.com/">
   <img src="https://camo.githubusercontent.com/ed1bd8ccbe7cb039513eb0586ede4b08f67a1f787e8ea821f2e7855fe9eccd6f/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6669676d612d69636f6e2e737667" width=50px>
 </a>
+<a href="https://nodejs.org/">
+  <img src="https://camo.githubusercontent.com/d92fd3c5f5b77a42142d21a12bfdf684ef262103f0ef0d368399ad9360c5f719/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6e6f64656a732d6f726967696e616c2d776f72646d61726b2e737667" width=50px>
+</a>
+<a href="https://www.python.org/">
+  <img src="https://camo.githubusercontent.com/dcf464fd11981a7f7b93526a5594267213c8a9112346768d796be56031ac0b26/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f707974686f6e2d6f726967696e616c2e737667" width=50px>
+</a>
+<a href="https://expressjs.com/">
+  <img src="https://camo.githubusercontent.com/c2411f0432bf5a5fb76816d3066bc473d4d12069fc150740e6df21167979c6dc/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f657870726573732d6f726967696e616c2d776f72646d61726b2e737667" width=50px>
+</a>
+<a href=""></a>
 </div>
