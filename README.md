@@ -5,3 +5,4 @@
 - 💻 Generaly in computer science
 # Speaking of my interests, my skillset consists of:
 <img href='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png'><img>
+![alt text](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
