@@ -4,4 +4,4 @@
 - 🤖 Machine learning
 - 💻 Generaly in computer science
 # Speaking of my interests, my skillset consists of:
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width=50px alt="Javascript">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width=50px href="https://www.javascript.com/">
