@@ -18,6 +18,7 @@
 - NodeJS (Back)
 - ExpressJS (Back)
 - NestJS (Back)
+- RxJS (Back)
 - Python (Back)
 - GO (Back)
 - TypeORM (ORM)
