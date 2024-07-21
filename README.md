@@ -33,6 +33,7 @@
 - Bash
 - C
 - Java
+- Rust
 - Assembly
 - Swift
 - Apple Script
