@@ -1,1 +1,1 @@
-[![Giorgis's GitHub stats](https://github-readme-stats.vercel.app/api?username=giorgimirianashvili)](https://github.com/anuraghazra/github-readme-stats)
+![Giorgi's GitHub stats](https://github-readme-stats.vercel.app/api?username=giorgimirianashvili&show_icons=true&theme=transparent)
