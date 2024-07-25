@@ -34,6 +34,7 @@
 - Git
 - Linux (Command Line)
 - Bash
+- Vim
 - C
 - Java
 - Rust
