@@ -31,8 +31,8 @@
 - MySQL (DB)
 - MongoDB (DB)
 - Sqlite (DB)
+- Linux Admin
 - Git
-- Linux (Command Line)
 - Bash
 - Vim
 - C
