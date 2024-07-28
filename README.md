@@ -20,7 +20,6 @@
 - NestJS (Back)
 - RxJS (Back)
 - Python (Back)
-- Docker (Back)
 - NGINX (Back)
 - Kubernetes (Back)
 - GO (Back)
@@ -32,6 +31,7 @@
 - MongoDB (DB)
 - Sqlite (DB)
 - Linux Admin
+- Docker
 - Git
 - Bash
 - Vim
@@ -40,5 +40,3 @@
 - Rust
 - Assembly
 - Swift
-- Apple Script
-- C++
