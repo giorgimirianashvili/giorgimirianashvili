@@ -41,5 +41,4 @@
 - Assembly
 - Swift
 - Apple Script
-- C#
 - C++
