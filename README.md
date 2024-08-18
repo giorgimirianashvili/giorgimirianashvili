@@ -23,6 +23,7 @@
 - NGINX (Back)
 - Kubernetes (Back)
 - GO (Back)
+- Rust (Back)
 - TypeORM (ORM)
 - Prisma (ORM)
 - Mongoose (ORM)
@@ -34,9 +35,11 @@
 - Docker
 - Git
 - Bash
+- Tensorflow
+- PyTorch
+- Kafka
 - Vim
 - C
 - Java
-- Rust
 - Assembly
 - Swift
