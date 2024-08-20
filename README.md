@@ -31,6 +31,7 @@
 - MySQL (DB)
 - MongoDB (DB)
 - Sqlite (DB)
+- Redis (DB)
 - Linux Admin
 - Docker
 - Git
