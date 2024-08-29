@@ -36,6 +36,7 @@
 - Docker
 - Git
 - Bash
+- Dart
 - Tensorflow
 - PyTorch
 - Kafka
