@@ -33,6 +33,7 @@
 - Sqlite (DB)
 - Redis (DB)
 - Linux Admin
+- OpenSSL
 - Docker
 - Git
 - Bash
