@@ -24,6 +24,7 @@
 - Kubernetes (Back)
 - GO (Back)
 - Rust (Back)
+- Solidity (Back)
 - TypeORM (ORM)
 - Prisma (ORM)
 - Mongoose (ORM)
